@@ -61,11 +61,21 @@ yet; the launchers pass the right flags. Two groups at once? Run the game from a
 | Sprint | **Shift** |
 | Jump | **Space** |
 | Look | mouse |
+| Grab an item, or another player, into your hands | **right click** on it |
+| Put down what you are holding | **right click** |
+| Put the item you are holding on someone's back | **right click** while looking at them |
+| Throw what you are holding | **left click** |
+| Grab an item in your mouth, and let it go | **Tab** |
 | Talk | hold **T** (push-to-talk; in open mic it forces transmit) |
 | Open mic ↔ push-to-talk | **V** |
 | Free or capture the mouse | **Esc** |
 | Session readout, with the build label | **F1** |
 | Quit | **⌘Q** on a Mac, **Alt+F4** elsewhere |
+
+Things to know: a tower on someone's back can only be unloaded by *other* players, one item at a
+time from anywhere in the stack — you cannot reach your own. Past seven items it starts to sway
+and pull the carrier about. If you get picked up, jam **A** and **D** back and forth for a couple
+of seconds to get free. Talking with something in your mouth sounds like it.
 
 ## Reporting a problem
 
