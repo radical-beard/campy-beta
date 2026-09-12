@@ -26,32 +26,31 @@ Those links always point at the newest build. Older builds, and what changed in 
 
 ### macOS
 
-1. Unzip. You get `project-campy-camping.app` and two launchers beside it.
+1. Unzip. You get `project-campy-camping.app`.
 2. The app is not notarized, so macOS will call it damaged or from an unidentified developer.
    Open Terminal, `cd` into the unzipped folder, and run this once:
    ```
    xattr -cr .
    ```
-3. Double-click **join-campy.command** (or **host-campy.command** if you are the host). macOS
-   asks for microphone access the first time you talk; say yes.
+3. Open the app. macOS asks for microphone access the first time you talk; say yes.
 
 ### Windows
 
 1. Unzip anywhere.
-2. Double-click **join-campy.bat** (or **host-campy.bat**). If Windows says it protected your
-   PC: *More info* → *Run anyway*. The build is unsigned, that is all.
+2. Run **campy.exe**. If Windows says it protected your PC: *More info* → *Run anyway*. The
+   build is unsigned, that is all.
 
 ### Linux
 
 1. Unzip. If the game will not start, `chmod +x campy.x86_64`.
-2. Run **join-campy.sh** (or **host-campy.sh**).
+2. Run **campy.x86_64**.
 
-### Hosting and joining
+### Picking a session
 
-One player hosts, everyone else joins. Joining looks for a session called "campy" anywhere in
-the world, so agree on who hosts and have only one host up at a time. There is no menu for this
-yet; the launchers pass the right flags. Two groups at once? Run the game from a terminal with
-`--host <name>` and `--join <name>`.
+The first screen lists every session that is up right now, with who is hosting and how many are
+in. Click **Join** on one, or type a name and press **Host** to open your own; **Play alone** is
+just you. If the host leaves, the game picks a new one and everyone reconnects in a few seconds;
+nothing ends.
 
 ## Controls
 
