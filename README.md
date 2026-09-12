@@ -60,10 +60,12 @@ nothing ends.
 | Sprint | **Shift** |
 | Jump | **Space** |
 | Look | mouse |
-| Grab an item, or another player, into your hands | **right click** on it |
+| Grab the item you are looking at | **right click** |
 | Put down what you are holding | **right click** |
 | Put the item you are holding on someone's back | **right click** while looking at them |
 | Throw what you are holding | **left click** |
+| Knock another player up | **left click** on them (look down at them to send them away instead) |
+| Pull a player below you up to your level | **right click** on them, with empty hands |
 | Grab an item in your mouth, and let it go | **Tab** |
 | Talk | hold **T** (push-to-talk; in open mic it forces transmit) |
 | Open mic ↔ push-to-talk | **V** |
@@ -74,8 +76,7 @@ nothing ends.
 Things to know: whatever you are looking at within reach glows white; that is what a click takes.
 A tower on someone's back can only be unloaded by *other* players, one item at a time from
 anywhere in the stack — you cannot reach your own. Past seven items it starts to sway and pull the
-carrier about. If you get picked up, jam **A** and **D** back and forth for a couple of seconds to
-get free. Talking with something in your mouth sounds like it.
+carrier about. Talking with something in your mouth sounds like it.
 
 **Your things are yours.** When you quit, whatever you were carrying — in hand, in mouth, on your
 back — leaves the world with you, and the next time you play on the same computer you come back
