@@ -72,10 +72,15 @@ yet; the launchers pass the right flags. Two groups at once? Run the game from a
 | Session readout, with the build label | **F1** |
 | Quit | **⌘Q** on a Mac, **Alt+F4** elsewhere |
 
-Things to know: a tower on someone's back can only be unloaded by *other* players, one item at a
-time from anywhere in the stack — you cannot reach your own. Past seven items it starts to sway
-and pull the carrier about. If you get picked up, jam **A** and **D** back and forth for a couple
-of seconds to get free. Talking with something in your mouth sounds like it.
+Things to know: whatever you are looking at within reach glows white; that is what a click takes.
+A tower on someone's back can only be unloaded by *other* players, one item at a time from
+anywhere in the stack — you cannot reach your own. Past seven items it starts to sway and pull the
+carrier about. If you get picked up, jam **A** and **D** back and forth for a couple of seconds to
+get free. Talking with something in your mouth sounds like it.
+
+**Your things are yours.** When you quit, whatever you were carrying — in hand, in mouth, on your
+back — leaves the world with you, and the next time you play on the same computer you come back
+where you were, carrying it. (Same computer: the beta cannot yet follow you between machines.)
 
 ## Reporting a problem
 
